@@ -1,0 +1,60 @@
+C:\Users\UgurArslan\Desktop\ProgrammersBlog\ProgrammersBlog.Shared\bin\Debug\net5.0\AspNetCoreMvc.Shared.deps.json
+C:\Users\UgurArslan\Desktop\ProgrammersBlog\ProgrammersBlog.Shared\bin\Debug\net5.0\AspNetCoreMvc.Shared.dll
+C:\Users\UgurArslan\Desktop\ProgrammersBlog\ProgrammersBlog.Shared\bin\Debug\net5.0\ref\AspNetCoreMvc.Shared.dll
+C:\Users\UgurArslan\Desktop\ProgrammersBlog\ProgrammersBlog.Shared\bin\Debug\net5.0\AspNetCoreMvc.Shared.pdb
+C:\Users\UgurArslan\Desktop\ProgrammersBlog\ProgrammersBlog.Shared\obj\Debug\net5.0\AspNetCoreMvc.Shared.csproj.AssemblyReference.cache
+C:\Users\UgurArslan\Desktop\ProgrammersBlog\ProgrammersBlog.Shared\obj\Debug\net5.0\AspNetCoreMvc.Shared.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\UgurArslan\Desktop\ProgrammersBlog\ProgrammersBlog.Shared\obj\Debug\net5.0\AspNetCoreMvc.Shared.AssemblyInfoInputs.cache
+C:\Users\UgurArslan\Desktop\ProgrammersBlog\ProgrammersBlog.Shared\obj\Debug\net5.0\AspNetCoreMvc.Shared.AssemblyInfo.cs
+C:\Users\UgurArslan\Desktop\ProgrammersBlog\ProgrammersBlog.Shared\obj\Debug\net5.0\AspNetCoreMvc.Shared.csproj.CoreCompileInputs.cache
+C:\Users\UgurArslan\Desktop\ProgrammersBlog\ProgrammersBlog.Shared\obj\Debug\net5.0\AspNetCoreMvc.Shared.dll
+C:\Users\UgurArslan\Desktop\ProgrammersBlog\ProgrammersBlog.Shared\obj\Debug\net5.0\ref\AspNetCoreMvc.Shared.dll
+C:\Users\UgurArslan\Desktop\ProgrammersBlog\ProgrammersBlog.Shared\obj\Debug\net5.0\AspNetCoreMvc.Shared.pdb
+C:\Users\isikl\OneDrive\Masaüstü\Ödev3\AspNetCoreMvc\ProgrammersBlog.Shared\bin\Debug\net5.0\AspNetCoreMvc.Shared.deps.json
+C:\Users\isikl\OneDrive\Masaüstü\Ödev3\AspNetCoreMvc\ProgrammersBlog.Shared\bin\Debug\net5.0\AspNetCoreMvc.Shared.dll
+C:\Users\isikl\OneDrive\Masaüstü\Ödev3\AspNetCoreMvc\ProgrammersBlog.Shared\bin\Debug\net5.0\ref\AspNetCoreMvc.Shared.dll
+C:\Users\isikl\OneDrive\Masaüstü\Ödev3\AspNetCoreMvc\ProgrammersBlog.Shared\bin\Debug\net5.0\AspNetCoreMvc.Shared.pdb
+C:\Users\isikl\OneDrive\Masaüstü\Ödev3\AspNetCoreMvc\ProgrammersBlog.Shared\obj\Debug\net5.0\AspNetCoreMvc.Shared.csproj.AssemblyReference.cache
+C:\Users\isikl\OneDrive\Masaüstü\Ödev3\AspNetCoreMvc\ProgrammersBlog.Shared\obj\Debug\net5.0\AspNetCoreMvc.Shared.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\isikl\OneDrive\Masaüstü\Ödev3\AspNetCoreMvc\ProgrammersBlog.Shared\obj\Debug\net5.0\AspNetCoreMvc.Shared.AssemblyInfoInputs.cache
+C:\Users\isikl\OneDrive\Masaüstü\Ödev3\AspNetCoreMvc\ProgrammersBlog.Shared\obj\Debug\net5.0\AspNetCoreMvc.Shared.AssemblyInfo.cs
+C:\Users\isikl\OneDrive\Masaüstü\Ödev3\AspNetCoreMvc\ProgrammersBlog.Shared\obj\Debug\net5.0\AspNetCoreMvc.Shared.csproj.CoreCompileInputs.cache
+C:\Users\isikl\OneDrive\Masaüstü\Ödev3\AspNetCoreMvc\ProgrammersBlog.Shared\obj\Debug\net5.0\AspNetCoreMvc.Shared.dll
+C:\Users\isikl\OneDrive\Masaüstü\Ödev3\AspNetCoreMvc\ProgrammersBlog.Shared\obj\Debug\net5.0\ref\AspNetCoreMvc.Shared.dll
+C:\Users\isikl\OneDrive\Masaüstü\Ödev3\AspNetCoreMvc\ProgrammersBlog.Shared\obj\Debug\net5.0\AspNetCoreMvc.Shared.pdb
+C:\Users\isikl\OneDrive\Masaüstü\Ödev\Otopark Takip Sistemi\ProgrammersBlog.Shared\bin\Debug\net5.0\AspNetCoreMvc.Shared.deps.json
+C:\Users\isikl\OneDrive\Masaüstü\Ödev\Otopark Takip Sistemi\ProgrammersBlog.Shared\bin\Debug\net5.0\AspNetCoreMvc.Shared.dll
+C:\Users\isikl\OneDrive\Masaüstü\Ödev\Otopark Takip Sistemi\ProgrammersBlog.Shared\bin\Debug\net5.0\ref\AspNetCoreMvc.Shared.dll
+C:\Users\isikl\OneDrive\Masaüstü\Ödev\Otopark Takip Sistemi\ProgrammersBlog.Shared\bin\Debug\net5.0\AspNetCoreMvc.Shared.pdb
+C:\Users\isikl\OneDrive\Masaüstü\Ödev\Otopark Takip Sistemi\ProgrammersBlog.Shared\obj\Debug\net5.0\AspNetCoreMvc.Shared.csproj.AssemblyReference.cache
+C:\Users\isikl\OneDrive\Masaüstü\Ödev\Otopark Takip Sistemi\ProgrammersBlog.Shared\obj\Debug\net5.0\AspNetCoreMvc.Shared.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\isikl\OneDrive\Masaüstü\Ödev\Otopark Takip Sistemi\ProgrammersBlog.Shared\obj\Debug\net5.0\AspNetCoreMvc.Shared.AssemblyInfoInputs.cache
+C:\Users\isikl\OneDrive\Masaüstü\Ödev\Otopark Takip Sistemi\ProgrammersBlog.Shared\obj\Debug\net5.0\AspNetCoreMvc.Shared.AssemblyInfo.cs
+C:\Users\isikl\OneDrive\Masaüstü\Ödev\Otopark Takip Sistemi\ProgrammersBlog.Shared\obj\Debug\net5.0\AspNetCoreMvc.Shared.csproj.CoreCompileInputs.cache
+C:\Users\isikl\OneDrive\Masaüstü\Ödev\Otopark Takip Sistemi\ProgrammersBlog.Shared\obj\Debug\net5.0\AspNetCoreMvc.Shared.dll
+C:\Users\isikl\OneDrive\Masaüstü\Ödev\Otopark Takip Sistemi\ProgrammersBlog.Shared\obj\Debug\net5.0\ref\AspNetCoreMvc.Shared.dll
+C:\Users\isikl\OneDrive\Masaüstü\Ödev\Otopark Takip Sistemi\ProgrammersBlog.Shared\obj\Debug\net5.0\AspNetCoreMvc.Shared.pdb
+C:\Users\isikl\OneDrive\Masaüstü\Ödev\Otopark Takip Sistemi Yedek1\ProgrammersBlog.Shared\bin\Debug\net5.0\AspNetCoreMvc.Shared.deps.json
+C:\Users\isikl\OneDrive\Masaüstü\Ödev\Otopark Takip Sistemi Yedek1\ProgrammersBlog.Shared\bin\Debug\net5.0\AspNetCoreMvc.Shared.dll
+C:\Users\isikl\OneDrive\Masaüstü\Ödev\Otopark Takip Sistemi Yedek1\ProgrammersBlog.Shared\bin\Debug\net5.0\ref\AspNetCoreMvc.Shared.dll
+C:\Users\isikl\OneDrive\Masaüstü\Ödev\Otopark Takip Sistemi Yedek1\ProgrammersBlog.Shared\bin\Debug\net5.0\AspNetCoreMvc.Shared.pdb
+C:\Users\isikl\OneDrive\Masaüstü\Ödev\Otopark Takip Sistemi Yedek1\ProgrammersBlog.Shared\obj\Debug\net5.0\AspNetCoreMvc.Shared.csproj.AssemblyReference.cache
+C:\Users\isikl\OneDrive\Masaüstü\Ödev\Otopark Takip Sistemi Yedek1\ProgrammersBlog.Shared\obj\Debug\net5.0\AspNetCoreMvc.Shared.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\isikl\OneDrive\Masaüstü\Ödev\Otopark Takip Sistemi Yedek1\ProgrammersBlog.Shared\obj\Debug\net5.0\AspNetCoreMvc.Shared.AssemblyInfoInputs.cache
+C:\Users\isikl\OneDrive\Masaüstü\Ödev\Otopark Takip Sistemi Yedek1\ProgrammersBlog.Shared\obj\Debug\net5.0\AspNetCoreMvc.Shared.AssemblyInfo.cs
+C:\Users\isikl\OneDrive\Masaüstü\Ödev\Otopark Takip Sistemi Yedek1\ProgrammersBlog.Shared\obj\Debug\net5.0\AspNetCoreMvc.Shared.csproj.CoreCompileInputs.cache
+C:\Users\isikl\OneDrive\Masaüstü\Ödev\Otopark Takip Sistemi Yedek1\ProgrammersBlog.Shared\obj\Debug\net5.0\AspNetCoreMvc.Shared.dll
+C:\Users\isikl\OneDrive\Masaüstü\Ödev\Otopark Takip Sistemi Yedek1\ProgrammersBlog.Shared\obj\Debug\net5.0\ref\AspNetCoreMvc.Shared.dll
+C:\Users\isikl\OneDrive\Masaüstü\Ödev\Otopark Takip Sistemi Yedek1\ProgrammersBlog.Shared\obj\Debug\net5.0\AspNetCoreMvc.Shared.pdb
+C:\Users\isikl\OneDrive\Masaüstü\Proje dosya gönderimi(Otopark Takip Sistemi)\Proje (Otopark Takip Sistemi ,Emir Salim Işıklar)\ProgrammersBlog.Shared\bin\Debug\net5.0\AspNetCoreMvc.Shared.deps.json
+C:\Users\isikl\OneDrive\Masaüstü\Proje dosya gönderimi(Otopark Takip Sistemi)\Proje (Otopark Takip Sistemi ,Emir Salim Işıklar)\ProgrammersBlog.Shared\bin\Debug\net5.0\AspNetCoreMvc.Shared.dll
+C:\Users\isikl\OneDrive\Masaüstü\Proje dosya gönderimi(Otopark Takip Sistemi)\Proje (Otopark Takip Sistemi ,Emir Salim Işıklar)\ProgrammersBlog.Shared\bin\Debug\net5.0\ref\AspNetCoreMvc.Shared.dll
+C:\Users\isikl\OneDrive\Masaüstü\Proje dosya gönderimi(Otopark Takip Sistemi)\Proje (Otopark Takip Sistemi ,Emir Salim Işıklar)\ProgrammersBlog.Shared\bin\Debug\net5.0\AspNetCoreMvc.Shared.pdb
+C:\Users\isikl\OneDrive\Masaüstü\Proje dosya gönderimi(Otopark Takip Sistemi)\Proje (Otopark Takip Sistemi ,Emir Salim Işıklar)\ProgrammersBlog.Shared\obj\Debug\net5.0\AspNetCoreMvc.Shared.csproj.AssemblyReference.cache
+C:\Users\isikl\OneDrive\Masaüstü\Proje dosya gönderimi(Otopark Takip Sistemi)\Proje (Otopark Takip Sistemi ,Emir Salim Işıklar)\ProgrammersBlog.Shared\obj\Debug\net5.0\AspNetCoreMvc.Shared.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\isikl\OneDrive\Masaüstü\Proje dosya gönderimi(Otopark Takip Sistemi)\Proje (Otopark Takip Sistemi ,Emir Salim Işıklar)\ProgrammersBlog.Shared\obj\Debug\net5.0\AspNetCoreMvc.Shared.AssemblyInfoInputs.cache
+C:\Users\isikl\OneDrive\Masaüstü\Proje dosya gönderimi(Otopark Takip Sistemi)\Proje (Otopark Takip Sistemi ,Emir Salim Işıklar)\ProgrammersBlog.Shared\obj\Debug\net5.0\AspNetCoreMvc.Shared.AssemblyInfo.cs
+C:\Users\isikl\OneDrive\Masaüstü\Proje dosya gönderimi(Otopark Takip Sistemi)\Proje (Otopark Takip Sistemi ,Emir Salim Işıklar)\ProgrammersBlog.Shared\obj\Debug\net5.0\AspNetCoreMvc.Shared.csproj.CoreCompileInputs.cache
+C:\Users\isikl\OneDrive\Masaüstü\Proje dosya gönderimi(Otopark Takip Sistemi)\Proje (Otopark Takip Sistemi ,Emir Salim Işıklar)\ProgrammersBlog.Shared\obj\Debug\net5.0\AspNetCoreMvc.Shared.dll
+C:\Users\isikl\OneDrive\Masaüstü\Proje dosya gönderimi(Otopark Takip Sistemi)\Proje (Otopark Takip Sistemi ,Emir Salim Işıklar)\ProgrammersBlog.Shared\obj\Debug\net5.0\ref\AspNetCoreMvc.Shared.dll
+C:\Users\isikl\OneDrive\Masaüstü\Proje dosya gönderimi(Otopark Takip Sistemi)\Proje (Otopark Takip Sistemi ,Emir Salim Işıklar)\ProgrammersBlog.Shared\obj\Debug\net5.0\AspNetCoreMvc.Shared.pdb

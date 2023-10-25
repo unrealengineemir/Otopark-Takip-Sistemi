@@ -1,0 +1,38 @@
+C:\Users\isikl\OneDrive\Masaüstü\Ödev\Otopark Takip Sistemi\ProgrammersBlog.Services\bin\Release\net5.0\AspNetCoreMvc.Services.deps.json
+C:\Users\isikl\OneDrive\Masaüstü\Ödev\Otopark Takip Sistemi\ProgrammersBlog.Services\bin\Release\net5.0\AspNetCoreMvc.Services.dll
+C:\Users\isikl\OneDrive\Masaüstü\Ödev\Otopark Takip Sistemi\ProgrammersBlog.Services\bin\Release\net5.0\ref\AspNetCoreMvc.Services.dll
+C:\Users\isikl\OneDrive\Masaüstü\Ödev\Otopark Takip Sistemi\ProgrammersBlog.Services\bin\Release\net5.0\AspNetCoreMvc.Services.pdb
+C:\Users\isikl\OneDrive\Masaüstü\Ödev\Otopark Takip Sistemi\ProgrammersBlog.Services\bin\Release\net5.0\AspNetCoreMvc.Data.dll
+C:\Users\isikl\OneDrive\Masaüstü\Ödev\Otopark Takip Sistemi\ProgrammersBlog.Services\bin\Release\net5.0\AspNetCoreMvc.Entities.dll
+C:\Users\isikl\OneDrive\Masaüstü\Ödev\Otopark Takip Sistemi\ProgrammersBlog.Services\bin\Release\net5.0\AspNetCoreMvc.Shared.dll
+C:\Users\isikl\OneDrive\Masaüstü\Ödev\Otopark Takip Sistemi\ProgrammersBlog.Services\bin\Release\net5.0\AspNetCoreMvc.Data.pdb
+C:\Users\isikl\OneDrive\Masaüstü\Ödev\Otopark Takip Sistemi\ProgrammersBlog.Services\bin\Release\net5.0\AspNetCoreMvc.Entities.pdb
+C:\Users\isikl\OneDrive\Masaüstü\Ödev\Otopark Takip Sistemi\ProgrammersBlog.Services\bin\Release\net5.0\AspNetCoreMvc.Shared.pdb
+C:\Users\isikl\OneDrive\Masaüstü\Ödev\Otopark Takip Sistemi\ProgrammersBlog.Services\obj\Release\net5.0\AspNetCoreMvc.Services.csproj.AssemblyReference.cache
+C:\Users\isikl\OneDrive\Masaüstü\Ödev\Otopark Takip Sistemi\ProgrammersBlog.Services\obj\Release\net5.0\AspNetCoreMvc.Services.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\isikl\OneDrive\Masaüstü\Ödev\Otopark Takip Sistemi\ProgrammersBlog.Services\obj\Release\net5.0\AspNetCoreMvc.Services.AssemblyInfoInputs.cache
+C:\Users\isikl\OneDrive\Masaüstü\Ödev\Otopark Takip Sistemi\ProgrammersBlog.Services\obj\Release\net5.0\AspNetCoreMvc.Services.AssemblyInfo.cs
+C:\Users\isikl\OneDrive\Masaüstü\Ödev\Otopark Takip Sistemi\ProgrammersBlog.Services\obj\Release\net5.0\AspNetCoreMvc.Services.csproj.CoreCompileInputs.cache
+C:\Users\isikl\OneDrive\Masaüstü\Ödev\Otopark Takip Sistemi\ProgrammersBlog.Services\obj\Release\net5.0\AspNetCoreMvc.Services.csproj.CopyComplete
+C:\Users\isikl\OneDrive\Masaüstü\Ödev\Otopark Takip Sistemi\ProgrammersBlog.Services\obj\Release\net5.0\AspNetCoreMvc.Services.dll
+C:\Users\isikl\OneDrive\Masaüstü\Ödev\Otopark Takip Sistemi\ProgrammersBlog.Services\obj\Release\net5.0\ref\AspNetCoreMvc.Services.dll
+C:\Users\isikl\OneDrive\Masaüstü\Ödev\Otopark Takip Sistemi\ProgrammersBlog.Services\obj\Release\net5.0\AspNetCoreMvc.Services.pdb
+C:\Users\isikl\OneDrive\Masaüstü\Ödev\Otopark Takip Sistemi Yedek1\ProgrammersBlog.Services\bin\Release\net5.0\AspNetCoreMvc.Services.deps.json
+C:\Users\isikl\OneDrive\Masaüstü\Ödev\Otopark Takip Sistemi Yedek1\ProgrammersBlog.Services\bin\Release\net5.0\AspNetCoreMvc.Services.dll
+C:\Users\isikl\OneDrive\Masaüstü\Ödev\Otopark Takip Sistemi Yedek1\ProgrammersBlog.Services\bin\Release\net5.0\ref\AspNetCoreMvc.Services.dll
+C:\Users\isikl\OneDrive\Masaüstü\Ödev\Otopark Takip Sistemi Yedek1\ProgrammersBlog.Services\bin\Release\net5.0\AspNetCoreMvc.Services.pdb
+C:\Users\isikl\OneDrive\Masaüstü\Ödev\Otopark Takip Sistemi Yedek1\ProgrammersBlog.Services\bin\Release\net5.0\AspNetCoreMvc.Data.dll
+C:\Users\isikl\OneDrive\Masaüstü\Ödev\Otopark Takip Sistemi Yedek1\ProgrammersBlog.Services\bin\Release\net5.0\AspNetCoreMvc.Entities.dll
+C:\Users\isikl\OneDrive\Masaüstü\Ödev\Otopark Takip Sistemi Yedek1\ProgrammersBlog.Services\bin\Release\net5.0\AspNetCoreMvc.Shared.dll
+C:\Users\isikl\OneDrive\Masaüstü\Ödev\Otopark Takip Sistemi Yedek1\ProgrammersBlog.Services\bin\Release\net5.0\AspNetCoreMvc.Data.pdb
+C:\Users\isikl\OneDrive\Masaüstü\Ödev\Otopark Takip Sistemi Yedek1\ProgrammersBlog.Services\bin\Release\net5.0\AspNetCoreMvc.Entities.pdb
+C:\Users\isikl\OneDrive\Masaüstü\Ödev\Otopark Takip Sistemi Yedek1\ProgrammersBlog.Services\bin\Release\net5.0\AspNetCoreMvc.Shared.pdb
+C:\Users\isikl\OneDrive\Masaüstü\Ödev\Otopark Takip Sistemi Yedek1\ProgrammersBlog.Services\obj\Release\net5.0\AspNetCoreMvc.Services.csproj.AssemblyReference.cache
+C:\Users\isikl\OneDrive\Masaüstü\Ödev\Otopark Takip Sistemi Yedek1\ProgrammersBlog.Services\obj\Release\net5.0\AspNetCoreMvc.Services.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\isikl\OneDrive\Masaüstü\Ödev\Otopark Takip Sistemi Yedek1\ProgrammersBlog.Services\obj\Release\net5.0\AspNetCoreMvc.Services.AssemblyInfoInputs.cache
+C:\Users\isikl\OneDrive\Masaüstü\Ödev\Otopark Takip Sistemi Yedek1\ProgrammersBlog.Services\obj\Release\net5.0\AspNetCoreMvc.Services.AssemblyInfo.cs
+C:\Users\isikl\OneDrive\Masaüstü\Ödev\Otopark Takip Sistemi Yedek1\ProgrammersBlog.Services\obj\Release\net5.0\AspNetCoreMvc.Services.csproj.CoreCompileInputs.cache
+C:\Users\isikl\OneDrive\Masaüstü\Ödev\Otopark Takip Sistemi Yedek1\ProgrammersBlog.Services\obj\Release\net5.0\AspNetCoreMvc.Services.csproj.CopyComplete
+C:\Users\isikl\OneDrive\Masaüstü\Ödev\Otopark Takip Sistemi Yedek1\ProgrammersBlog.Services\obj\Release\net5.0\AspNetCoreMvc.Services.dll
+C:\Users\isikl\OneDrive\Masaüstü\Ödev\Otopark Takip Sistemi Yedek1\ProgrammersBlog.Services\obj\Release\net5.0\ref\AspNetCoreMvc.Services.dll
+C:\Users\isikl\OneDrive\Masaüstü\Ödev\Otopark Takip Sistemi Yedek1\ProgrammersBlog.Services\obj\Release\net5.0\AspNetCoreMvc.Services.pdb

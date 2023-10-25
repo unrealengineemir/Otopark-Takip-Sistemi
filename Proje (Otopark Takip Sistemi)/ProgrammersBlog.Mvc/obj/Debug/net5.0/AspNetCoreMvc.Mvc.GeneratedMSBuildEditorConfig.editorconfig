@@ -1,0 +1,10 @@
+is_global = true
+build_property.TargetFramework = net5.0
+build_property.TargetPlatformMinVersion = 
+build_property.UsingMicrosoftNETSdkWeb = true
+build_property.ProjectTypeGuids = 
+build_property.PublishSingleFile = 
+build_property.IncludeAllContentForSelfExtract = 
+build_property._SupportedPlatformList = Android,iOS,Linux,macOS,Windows
+build_property.RootNamespace = AspNetCoreMvc.Mvc
+build_property.ProjectDir = C:\Users\isikl\OneDrive\Masaüstü\Proje dosya gönderimi(Otopark Takip Sistemi)\Proje (Otopark Takip Sistemi ,Emir Salim Işıklar)\ProgrammersBlog.Mvc\

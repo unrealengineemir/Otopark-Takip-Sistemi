@@ -1,0 +1,87 @@
+﻿@model AspNetCoreMvc.Mvc.Areas.Admin.Models.DashboardViewModel
+@{
+    Layout = "_Layout";
+    ViewBag.Title = "Yönetim Paneli";
+}
+@*<h1 class="mt-4">Dashboard</h1>*@
+<ol class="breadcrumb mb-3 mt-2">
+    <li class="breadcrumb-item"><a asp-area="Admin" asp-controller="Home" asp-action="Index">Admin</a></li>
+    <li class="breadcrumb-item active"><a asp-area="Admin" asp-controller="Home" asp-action="Index">Yönetim Paneli</a></li>
+</ol>
+<div class="row">
+    <div class="col-xl-4 col-md-6">
+        <div class="card bg-primary text-white mb-4">
+            <div class="card-body">Kategoriler (@Model.CategoriesCount)</div>
+            <div class="card-footer d-flex align-items-center justify-content-between">
+                <a class="small text-white stretched-link" asp-area="Admin" asp-controller="Category" asp-action="Index">Detaylar</a>
+                <div class="small text-white"><i class="fas fa-angle-right"></i></div>
+            </div>
+        </div>
+    </div>
+    <div class="col-xl-4 col-md-6">
+        <div class="card bg-warning text-white mb-4">
+            <div class="card-body">Otopark Kapasite (@Model.KapasiteCount)</div>
+            <div class="card-footer d-flex align-items-center justify-content-between">
+                <a class="small text-white stretched-link" asp-area="Admin" asp-controller="Home" asp-action="Index">Detaylar</a>
+                <div class="small text-white"><i class="fas fa-angle-right"></i></div>
+            </div>
+        </div>
+    </div>
+    <div class="col-xl-4 col-md-6">
+        <div class="card bg-success text-white mb-4">
+            <div class="card-body">İçerdeki Araç (@Model.OnlineCount)</div>
+            <div class="card-footer d-flex align-items-center justify-content-between">
+                <a class="small text-white stretched-link" asp-area="Admin" asp-controller="Home" asp-action="Index">Detaylar</a>
+                <div class="small text-white"><i class="fas fa-angle-right"></i></div>
+            </div>
+        </div>
+    </div>
+</div>
+
+<div class="card mb-4">
+    <div class="card-header">
+        <i class="fas fa-table mr-1"></i>
+        Giriş - Çıkış Kayıtları
+    </div>
+    <div class="card-body">
+        <div class="table-responsive">
+            <table class="table table-bordered" id="articlesTable" width="100%" cellspacing="0">
+                <thead>
+                    <tr>
+                        <th>ID</th>
+                        <th>Plaka</th>
+                        <th>Giriş Tarih - Saat</th>
+                        <th>Çıkış Tarih - Saat</th>
+                        <th>Alınan Ücret</th>
+                        <th>Abone Mi</th>
+                        <th>RFID</th>
+                        <th>Not</th>
+                    </tr>
+                </thead>
+                
+                <tbody>
+
+                    @foreach (var arac in Model.Aracs)
+                    {
+                        <tr name="@arac.Id">
+                            <td>@arac.Id</td>
+                            <td>@arac.LicensePlate</td>
+                            <td>@arac.EnterDate</td>
+                            <td>@arac.ExitDate</td>
+                            <td>@arac.Price</td>
+                            <td>@arac.Subscriber</td>
+                            <td>@arac.SubscriberRFID</td>
+                            <td>@arac.Note</td>
+
+                        
+                        </tr>
+                    }
+                </tbody>
+            </table>
+        </div>
+    </div>
+</div>
+@section Scripts
+{
+    <script src="~/AdminLTE/js/homeIndex.js" type="application/ecmascript"></script>
+}

@@ -1,0 +1,75 @@
+C:\Users\UgurArslan\Desktop\ProgrammersBlog\ProgrammersBlog.Entities\bin\Debug\net5.0\AspNetCoreMvc.Entities.deps.json
+C:\Users\UgurArslan\Desktop\ProgrammersBlog\ProgrammersBlog.Entities\bin\Debug\net5.0\AspNetCoreMvc.Entities.dll
+C:\Users\UgurArslan\Desktop\ProgrammersBlog\ProgrammersBlog.Entities\bin\Debug\net5.0\ref\AspNetCoreMvc.Entities.dll
+C:\Users\UgurArslan\Desktop\ProgrammersBlog\ProgrammersBlog.Entities\bin\Debug\net5.0\AspNetCoreMvc.Entities.pdb
+C:\Users\UgurArslan\Desktop\ProgrammersBlog\ProgrammersBlog.Entities\bin\Debug\net5.0\AspNetCoreMvc.Shared.dll
+C:\Users\UgurArslan\Desktop\ProgrammersBlog\ProgrammersBlog.Entities\bin\Debug\net5.0\AspNetCoreMvc.Shared.pdb
+C:\Users\UgurArslan\Desktop\ProgrammersBlog\ProgrammersBlog.Entities\obj\Debug\net5.0\AspNetCoreMvc.Entities.csproj.AssemblyReference.cache
+C:\Users\UgurArslan\Desktop\ProgrammersBlog\ProgrammersBlog.Entities\obj\Debug\net5.0\AspNetCoreMvc.Entities.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\UgurArslan\Desktop\ProgrammersBlog\ProgrammersBlog.Entities\obj\Debug\net5.0\AspNetCoreMvc.Entities.AssemblyInfoInputs.cache
+C:\Users\UgurArslan\Desktop\ProgrammersBlog\ProgrammersBlog.Entities\obj\Debug\net5.0\AspNetCoreMvc.Entities.AssemblyInfo.cs
+C:\Users\UgurArslan\Desktop\ProgrammersBlog\ProgrammersBlog.Entities\obj\Debug\net5.0\AspNetCoreMvc.Entities.csproj.CoreCompileInputs.cache
+C:\Users\UgurArslan\Desktop\ProgrammersBlog\ProgrammersBlog.Entities\obj\Debug\net5.0\AspNetCoreMvc.Entities.csproj.CopyComplete
+C:\Users\UgurArslan\Desktop\ProgrammersBlog\ProgrammersBlog.Entities\obj\Debug\net5.0\AspNetCoreMvc.Entities.dll
+C:\Users\UgurArslan\Desktop\ProgrammersBlog\ProgrammersBlog.Entities\obj\Debug\net5.0\ref\AspNetCoreMvc.Entities.dll
+C:\Users\UgurArslan\Desktop\ProgrammersBlog\ProgrammersBlog.Entities\obj\Debug\net5.0\AspNetCoreMvc.Entities.pdb
+C:\Users\isikl\OneDrive\Masaüstü\Ödev3\AspNetCoreMvc\ProgrammersBlog.Entities\bin\Debug\net5.0\AspNetCoreMvc.Entities.deps.json
+C:\Users\isikl\OneDrive\Masaüstü\Ödev3\AspNetCoreMvc\ProgrammersBlog.Entities\bin\Debug\net5.0\AspNetCoreMvc.Entities.dll
+C:\Users\isikl\OneDrive\Masaüstü\Ödev3\AspNetCoreMvc\ProgrammersBlog.Entities\bin\Debug\net5.0\ref\AspNetCoreMvc.Entities.dll
+C:\Users\isikl\OneDrive\Masaüstü\Ödev3\AspNetCoreMvc\ProgrammersBlog.Entities\bin\Debug\net5.0\AspNetCoreMvc.Entities.pdb
+C:\Users\isikl\OneDrive\Masaüstü\Ödev3\AspNetCoreMvc\ProgrammersBlog.Entities\bin\Debug\net5.0\AspNetCoreMvc.Shared.dll
+C:\Users\isikl\OneDrive\Masaüstü\Ödev3\AspNetCoreMvc\ProgrammersBlog.Entities\bin\Debug\net5.0\AspNetCoreMvc.Shared.pdb
+C:\Users\isikl\OneDrive\Masaüstü\Ödev3\AspNetCoreMvc\ProgrammersBlog.Entities\obj\Debug\net5.0\AspNetCoreMvc.Entities.csproj.AssemblyReference.cache
+C:\Users\isikl\OneDrive\Masaüstü\Ödev3\AspNetCoreMvc\ProgrammersBlog.Entities\obj\Debug\net5.0\AspNetCoreMvc.Entities.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\isikl\OneDrive\Masaüstü\Ödev3\AspNetCoreMvc\ProgrammersBlog.Entities\obj\Debug\net5.0\AspNetCoreMvc.Entities.AssemblyInfoInputs.cache
+C:\Users\isikl\OneDrive\Masaüstü\Ödev3\AspNetCoreMvc\ProgrammersBlog.Entities\obj\Debug\net5.0\AspNetCoreMvc.Entities.AssemblyInfo.cs
+C:\Users\isikl\OneDrive\Masaüstü\Ödev3\AspNetCoreMvc\ProgrammersBlog.Entities\obj\Debug\net5.0\AspNetCoreMvc.Entities.csproj.CoreCompileInputs.cache
+C:\Users\isikl\OneDrive\Masaüstü\Ödev3\AspNetCoreMvc\ProgrammersBlog.Entities\obj\Debug\net5.0\AspNetCoreMvc.Entities.csproj.CopyComplete
+C:\Users\isikl\OneDrive\Masaüstü\Ödev3\AspNetCoreMvc\ProgrammersBlog.Entities\obj\Debug\net5.0\AspNetCoreMvc.Entities.dll
+C:\Users\isikl\OneDrive\Masaüstü\Ödev3\AspNetCoreMvc\ProgrammersBlog.Entities\obj\Debug\net5.0\ref\AspNetCoreMvc.Entities.dll
+C:\Users\isikl\OneDrive\Masaüstü\Ödev3\AspNetCoreMvc\ProgrammersBlog.Entities\obj\Debug\net5.0\AspNetCoreMvc.Entities.pdb
+C:\Users\isikl\OneDrive\Masaüstü\Ödev\Otopark Takip Sistemi\ProgrammersBlog.Entities\bin\Debug\net5.0\AspNetCoreMvc.Entities.deps.json
+C:\Users\isikl\OneDrive\Masaüstü\Ödev\Otopark Takip Sistemi\ProgrammersBlog.Entities\bin\Debug\net5.0\AspNetCoreMvc.Entities.dll
+C:\Users\isikl\OneDrive\Masaüstü\Ödev\Otopark Takip Sistemi\ProgrammersBlog.Entities\bin\Debug\net5.0\ref\AspNetCoreMvc.Entities.dll
+C:\Users\isikl\OneDrive\Masaüstü\Ödev\Otopark Takip Sistemi\ProgrammersBlog.Entities\bin\Debug\net5.0\AspNetCoreMvc.Entities.pdb
+C:\Users\isikl\OneDrive\Masaüstü\Ödev\Otopark Takip Sistemi\ProgrammersBlog.Entities\bin\Debug\net5.0\AspNetCoreMvc.Shared.dll
+C:\Users\isikl\OneDrive\Masaüstü\Ödev\Otopark Takip Sistemi\ProgrammersBlog.Entities\bin\Debug\net5.0\AspNetCoreMvc.Shared.pdb
+C:\Users\isikl\OneDrive\Masaüstü\Ödev\Otopark Takip Sistemi\ProgrammersBlog.Entities\obj\Debug\net5.0\AspNetCoreMvc.Entities.csproj.AssemblyReference.cache
+C:\Users\isikl\OneDrive\Masaüstü\Ödev\Otopark Takip Sistemi\ProgrammersBlog.Entities\obj\Debug\net5.0\AspNetCoreMvc.Entities.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\isikl\OneDrive\Masaüstü\Ödev\Otopark Takip Sistemi\ProgrammersBlog.Entities\obj\Debug\net5.0\AspNetCoreMvc.Entities.AssemblyInfoInputs.cache
+C:\Users\isikl\OneDrive\Masaüstü\Ödev\Otopark Takip Sistemi\ProgrammersBlog.Entities\obj\Debug\net5.0\AspNetCoreMvc.Entities.AssemblyInfo.cs
+C:\Users\isikl\OneDrive\Masaüstü\Ödev\Otopark Takip Sistemi\ProgrammersBlog.Entities\obj\Debug\net5.0\AspNetCoreMvc.Entities.csproj.CoreCompileInputs.cache
+C:\Users\isikl\OneDrive\Masaüstü\Ödev\Otopark Takip Sistemi\ProgrammersBlog.Entities\obj\Debug\net5.0\AspNetCoreMvc.Entities.csproj.CopyComplete
+C:\Users\isikl\OneDrive\Masaüstü\Ödev\Otopark Takip Sistemi\ProgrammersBlog.Entities\obj\Debug\net5.0\AspNetCoreMvc.Entities.dll
+C:\Users\isikl\OneDrive\Masaüstü\Ödev\Otopark Takip Sistemi\ProgrammersBlog.Entities\obj\Debug\net5.0\ref\AspNetCoreMvc.Entities.dll
+C:\Users\isikl\OneDrive\Masaüstü\Ödev\Otopark Takip Sistemi\ProgrammersBlog.Entities\obj\Debug\net5.0\AspNetCoreMvc.Entities.pdb
+C:\Users\isikl\OneDrive\Masaüstü\Ödev\Otopark Takip Sistemi Yedek1\ProgrammersBlog.Entities\bin\Debug\net5.0\AspNetCoreMvc.Entities.deps.json
+C:\Users\isikl\OneDrive\Masaüstü\Ödev\Otopark Takip Sistemi Yedek1\ProgrammersBlog.Entities\bin\Debug\net5.0\AspNetCoreMvc.Entities.dll
+C:\Users\isikl\OneDrive\Masaüstü\Ödev\Otopark Takip Sistemi Yedek1\ProgrammersBlog.Entities\bin\Debug\net5.0\ref\AspNetCoreMvc.Entities.dll
+C:\Users\isikl\OneDrive\Masaüstü\Ödev\Otopark Takip Sistemi Yedek1\ProgrammersBlog.Entities\bin\Debug\net5.0\AspNetCoreMvc.Entities.pdb
+C:\Users\isikl\OneDrive\Masaüstü\Ödev\Otopark Takip Sistemi Yedek1\ProgrammersBlog.Entities\bin\Debug\net5.0\AspNetCoreMvc.Shared.dll
+C:\Users\isikl\OneDrive\Masaüstü\Ödev\Otopark Takip Sistemi Yedek1\ProgrammersBlog.Entities\bin\Debug\net5.0\AspNetCoreMvc.Shared.pdb
+C:\Users\isikl\OneDrive\Masaüstü\Ödev\Otopark Takip Sistemi Yedek1\ProgrammersBlog.Entities\obj\Debug\net5.0\AspNetCoreMvc.Entities.csproj.AssemblyReference.cache
+C:\Users\isikl\OneDrive\Masaüstü\Ödev\Otopark Takip Sistemi Yedek1\ProgrammersBlog.Entities\obj\Debug\net5.0\AspNetCoreMvc.Entities.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\isikl\OneDrive\Masaüstü\Ödev\Otopark Takip Sistemi Yedek1\ProgrammersBlog.Entities\obj\Debug\net5.0\AspNetCoreMvc.Entities.AssemblyInfoInputs.cache
+C:\Users\isikl\OneDrive\Masaüstü\Ödev\Otopark Takip Sistemi Yedek1\ProgrammersBlog.Entities\obj\Debug\net5.0\AspNetCoreMvc.Entities.AssemblyInfo.cs
+C:\Users\isikl\OneDrive\Masaüstü\Ödev\Otopark Takip Sistemi Yedek1\ProgrammersBlog.Entities\obj\Debug\net5.0\AspNetCoreMvc.Entities.csproj.CoreCompileInputs.cache
+C:\Users\isikl\OneDrive\Masaüstü\Ödev\Otopark Takip Sistemi Yedek1\ProgrammersBlog.Entities\obj\Debug\net5.0\AspNetCoreMvc.Entities.csproj.CopyComplete
+C:\Users\isikl\OneDrive\Masaüstü\Ödev\Otopark Takip Sistemi Yedek1\ProgrammersBlog.Entities\obj\Debug\net5.0\AspNetCoreMvc.Entities.dll
+C:\Users\isikl\OneDrive\Masaüstü\Ödev\Otopark Takip Sistemi Yedek1\ProgrammersBlog.Entities\obj\Debug\net5.0\ref\AspNetCoreMvc.Entities.dll
+C:\Users\isikl\OneDrive\Masaüstü\Ödev\Otopark Takip Sistemi Yedek1\ProgrammersBlog.Entities\obj\Debug\net5.0\AspNetCoreMvc.Entities.pdb
+C:\Users\isikl\OneDrive\Masaüstü\Proje dosya gönderimi(Otopark Takip Sistemi)\Proje (Otopark Takip Sistemi ,Emir Salim Işıklar)\ProgrammersBlog.Entities\bin\Debug\net5.0\AspNetCoreMvc.Entities.deps.json
+C:\Users\isikl\OneDrive\Masaüstü\Proje dosya gönderimi(Otopark Takip Sistemi)\Proje (Otopark Takip Sistemi ,Emir Salim Işıklar)\ProgrammersBlog.Entities\bin\Debug\net5.0\AspNetCoreMvc.Entities.dll
+C:\Users\isikl\OneDrive\Masaüstü\Proje dosya gönderimi(Otopark Takip Sistemi)\Proje (Otopark Takip Sistemi ,Emir Salim Işıklar)\ProgrammersBlog.Entities\bin\Debug\net5.0\ref\AspNetCoreMvc.Entities.dll
+C:\Users\isikl\OneDrive\Masaüstü\Proje dosya gönderimi(Otopark Takip Sistemi)\Proje (Otopark Takip Sistemi ,Emir Salim Işıklar)\ProgrammersBlog.Entities\bin\Debug\net5.0\AspNetCoreMvc.Entities.pdb
+C:\Users\isikl\OneDrive\Masaüstü\Proje dosya gönderimi(Otopark Takip Sistemi)\Proje (Otopark Takip Sistemi ,Emir Salim Işıklar)\ProgrammersBlog.Entities\bin\Debug\net5.0\AspNetCoreMvc.Shared.dll
+C:\Users\isikl\OneDrive\Masaüstü\Proje dosya gönderimi(Otopark Takip Sistemi)\Proje (Otopark Takip Sistemi ,Emir Salim Işıklar)\ProgrammersBlog.Entities\bin\Debug\net5.0\AspNetCoreMvc.Shared.pdb
+C:\Users\isikl\OneDrive\Masaüstü\Proje dosya gönderimi(Otopark Takip Sistemi)\Proje (Otopark Takip Sistemi ,Emir Salim Işıklar)\ProgrammersBlog.Entities\obj\Debug\net5.0\AspNetCoreMvc.Entities.csproj.AssemblyReference.cache
+C:\Users\isikl\OneDrive\Masaüstü\Proje dosya gönderimi(Otopark Takip Sistemi)\Proje (Otopark Takip Sistemi ,Emir Salim Işıklar)\ProgrammersBlog.Entities\obj\Debug\net5.0\AspNetCoreMvc.Entities.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\isikl\OneDrive\Masaüstü\Proje dosya gönderimi(Otopark Takip Sistemi)\Proje (Otopark Takip Sistemi ,Emir Salim Işıklar)\ProgrammersBlog.Entities\obj\Debug\net5.0\AspNetCoreMvc.Entities.AssemblyInfoInputs.cache
+C:\Users\isikl\OneDrive\Masaüstü\Proje dosya gönderimi(Otopark Takip Sistemi)\Proje (Otopark Takip Sistemi ,Emir Salim Işıklar)\ProgrammersBlog.Entities\obj\Debug\net5.0\AspNetCoreMvc.Entities.AssemblyInfo.cs
+C:\Users\isikl\OneDrive\Masaüstü\Proje dosya gönderimi(Otopark Takip Sistemi)\Proje (Otopark Takip Sistemi ,Emir Salim Işıklar)\ProgrammersBlog.Entities\obj\Debug\net5.0\AspNetCoreMvc.Entities.csproj.CoreCompileInputs.cache
+C:\Users\isikl\OneDrive\Masaüstü\Proje dosya gönderimi(Otopark Takip Sistemi)\Proje (Otopark Takip Sistemi ,Emir Salim Işıklar)\ProgrammersBlog.Entities\obj\Debug\net5.0\AspNetCoreMvc.Entities.csproj.CopyComplete
+C:\Users\isikl\OneDrive\Masaüstü\Proje dosya gönderimi(Otopark Takip Sistemi)\Proje (Otopark Takip Sistemi ,Emir Salim Işıklar)\ProgrammersBlog.Entities\obj\Debug\net5.0\AspNetCoreMvc.Entities.dll
+C:\Users\isikl\OneDrive\Masaüstü\Proje dosya gönderimi(Otopark Takip Sistemi)\Proje (Otopark Takip Sistemi ,Emir Salim Işıklar)\ProgrammersBlog.Entities\obj\Debug\net5.0\ref\AspNetCoreMvc.Entities.dll
+C:\Users\isikl\OneDrive\Masaüstü\Proje dosya gönderimi(Otopark Takip Sistemi)\Proje (Otopark Takip Sistemi ,Emir Salim Işıklar)\ProgrammersBlog.Entities\obj\Debug\net5.0\AspNetCoreMvc.Entities.pdb

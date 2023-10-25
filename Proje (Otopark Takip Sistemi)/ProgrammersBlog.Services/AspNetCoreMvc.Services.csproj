@@ -1,0 +1,29 @@
+﻿<Project Sdk="Microsoft.NET.Sdk">
+
+  <PropertyGroup>
+    <TargetFramework>net5.0</TargetFramework>
+  </PropertyGroup>
+
+  <PropertyGroup Condition="'$(Configuration)|$(Platform)'=='Debug|AnyCPU'">
+    <DocumentationFile>C:\Users\UgurArslan\Desktop\ProgrammersBlog-Proje-Dosyasi-D125\ProgrammersBlog\ProgrammersBlog.Services.xml</DocumentationFile>
+    <NoWarn>1701;1702;CS1591</NoWarn>
+  </PropertyGroup>
+
+  <ItemGroup>
+    <Compile Remove="Abstract\IArticleService.cs" />
+    <Compile Remove="Abstract\ICommentService.cs" />
+    <Compile Remove="Concrete\CommentManager.cs" />
+  </ItemGroup>
+
+  <ItemGroup>
+    <PackageReference Include="AutoMapper" Version="10.1.1" />
+    <PackageReference Include="Microsoft.AspNetCore.Identity" Version="2.2.0" />
+  </ItemGroup>
+
+  <ItemGroup>
+    <ProjectReference Include="..\ProgrammersBlog.Data\AspNetCoreMvc.Data.csproj" />
+    <ProjectReference Include="..\ProgrammersBlog.Entities\AspNetCoreMvc.Entities.csproj" />
+    <ProjectReference Include="..\ProgrammersBlog.Shared\AspNetCoreMvc.Shared.csproj" />
+  </ItemGroup>
+
+</Project>

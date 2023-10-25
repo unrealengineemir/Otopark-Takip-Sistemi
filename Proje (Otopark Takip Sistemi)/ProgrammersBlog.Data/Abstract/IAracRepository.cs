@@ -1,0 +1,15 @@
+﻿using AspNetCoreMvc.Entities.Concrete;
+using AspNetCoreMvc.Shared.Data.Abstract;
+using System;
+using System.Collections.Generic;
+using System.Linq;
+using System.Text;
+using System.Threading.Tasks;
+
+namespace AspNetCoreMvc.Data.Abstract
+{
+
+   public interface IAracRepository : IEntityRepository<Arac>
+    {
+    }
+}

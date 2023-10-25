@@ -1,0 +1,9 @@
+Merhabalar, benim proje konum otopark takip sistemidir. Projemi yaparken asenkron mimariden faydalandım ve böylece bir thread e aynı anda birden fazla işlem dahil edilebilir duruma getirildi. 
+
+Biraz uzun soluklu bir proje oldu çektiğim video yaklaşık 18 dakikaya tekabül etti , ama 7-10 dakika arası bir anlatım istendiği için
+bazı yerleri maalesef hızlı geçmem gerekti.
+
+
+Projenin bilgisayarda çalışması için asp.net core 5 gerekmektedir.
+
+ 
